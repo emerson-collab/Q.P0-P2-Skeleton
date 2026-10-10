@@ -1,6 +1,6 @@
-# Q.P0-P4 Skeleton
+# Q.P0-P2 Skeleton
 
-This repository is the reusable Q five-stage implementation skeleton.
+This repository is the reusable Q P0–P2 implementation skeleton. It contains the P0 Runtime Core, P1 Business Runtime, P2 Provider/Consumer realizations, and their shared support files.
 
 ## Authority boundary
 
@@ -20,8 +20,6 @@ Authoritative Contract bytes are resolved from Q Cloud Storage. Repository-side 
 - P2 Cross-Domain Realization: `Q.SS.STD.P2.CONTRACT.CROSS_DOMAIN_REALIZATION@V0128`
 - P2 Cross-Domain Realization SHA-256: `sha256:15549a6a4a0c005ccbeddb0c7b40b4f4918f336c731b7c2017f05e2926bbb71d`
 - Governed Data Material: `Q.SS.STD.META.CONTRACT.GOVERNED_DATA_MATERIAL@V0104`
-- P3 Evolution: `Q.SS.STD.P3.CONTRACT.EVOLUTION@V0145`
-- P4 Coordination: `Q.SS.STD.P4.CONTRACT.COORDINATION@V0141`
 
 ## P1 fixed framework
 
